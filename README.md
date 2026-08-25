@@ -2,7 +2,7 @@
 
 > Monitor upcoming ICOs, IDOs, and token launches across launchpads with funding data and schedules
 
-[![Try on Apify](https://img.shields.io/badge/Try_on-Apify_Store-00C7B7?style=for-the-badge&logo=apify)](https://apify.com/george.the.developer/crypto-launch-tracker)
+[![Try on Apify](https://img.shields.io/badge/Try_on-Apify_Store-00C7B7?style=for-the-badge&logo=apify)](https://apify.com/george.the.developer/crypto-launch-tracker?fpr=bbquoh)
 [![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/the-ai-entrepreneur-ai-hub/crypto-launch-tracker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
@@ -177,7 +177,7 @@ This actor uses Apify's **Pay-Per-Event** pricing. You only pay for what you use
 
 ### Run on Apify Console
 
-1. Go to [Crypto Launch Tracker on Apify Store](https://apify.com/george.the.developer/crypto-launch-tracker)
+1. Go to [Crypto Launch Tracker on Apify Store](https://apify.com/george.the.developer/crypto-launch-tracker?fpr=bbquoh)
 2. Click **"Try for free"**
 3. Configure your input parameters
 4. Click **"Start"** and wait for results
@@ -227,23 +227,23 @@ for item in client.dataset(run["defaultDatasetId"]).iterate_items():
 
 ## Related Actors
 
-More data extraction tools by [George The Developer](https://apify.com/george.the.developer):
+More data extraction tools by [George The Developer](https://apify.com/george.the.developer?fpr=bbquoh):
 
-- [Reddit Scraper Pro](https://apify.com/george.the.developer/reddit-scraper-pro) — Extract posts, comments, user profiles, and subreddit data from Reddit at scale 
-- [AI Training Data Scraper](https://apify.com/george.the.developer/ai-training-data-scraper) — Collect structured, clean datasets from the web purpose-built for training machi
-- [Influencer Marketing Intel](https://apify.com/george.the.developer/influencer-marketing-intel) — Discover and analyze social media influencers with engagement metrics, audience 
-- [Google Maps Leads & Website Audit](https://apify.com/george.the.developer/google-maps-leads-website-audit) — Extract business leads from Google Maps with automated website audits for contac
-- [App Review Pain Miner](https://apify.com/george.the.developer/app-review-pain-miner) — Extract and analyze app store reviews to discover user pain points, feature requ
+- [Reddit Scraper Pro](https://apify.com/george.the.developer/reddit-scraper-pro?fpr=bbquoh) — Extract posts, comments, user profiles, and subreddit data from Reddit at scale 
+- [AI Training Data Scraper](https://apify.com/george.the.developer/ai-training-data-scraper?fpr=bbquoh) — Collect structured, clean datasets from the web purpose-built for training machi
+- [Influencer Marketing Intel](https://apify.com/george.the.developer/influencer-marketing-intel?fpr=bbquoh) — Discover and analyze social media influencers with engagement metrics, audience 
+- [Google Maps Leads & Website Audit](https://apify.com/george.the.developer/google-maps-leads-website-audit?fpr=bbquoh) — Extract business leads from Google Maps with automated website audits for contac
+- [App Review Pain Miner](https://apify.com/george.the.developer/app-review-pain-miner?fpr=bbquoh) — Extract and analyze app store reviews to discover user pain points, feature requ
 
-[View all actors on Apify Store >>>](https://apify.com/george.the.developer)
+[View all actors on Apify Store >>>](https://apify.com/george.the.developer?fpr=bbquoh)
 
 ---
 
 ## Support
 
-- **Apify Store**: [https://apify.com/george.the.developer/crypto-launch-tracker](https://apify.com/george.the.developer/crypto-launch-tracker)
+- **Apify Store**: [https://apify.com/george.the.developer/crypto-launch-tracker?fpr=bbquoh](https://apify.com/george.the.developer/crypto-launch-tracker?fpr=bbquoh)
 - **GitHub Issues**: [Report a bug](https://github.com/the-ai-entrepreneur-ai-hub/crypto-launch-tracker/issues)
-- **Author**: [George The Developer](https://apify.com/george.the.developer)
+- **Author**: [George The Developer](https://apify.com/george.the.developer?fpr=bbquoh)
 
 ---
 
@@ -253,4 +253,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with Crawlee and the Apify SDK by [George The Developer](https://apify.com/george.the.developer). Star this repo if you find it useful!*
+*Built with Crawlee and the Apify SDK by [George The Developer](https://apify.com/george.the.developer?fpr=bbquoh). Star this repo if you find it useful!*
